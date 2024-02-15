@@ -1,0 +1,22 @@
+﻿_id,field_name,data_type,description_thai,description_en
+1,YEAR,NUMERIC,ปี,Year
+2,CODE_REGION,NUMERIC,รหัสภาค,"Code of Region"
+3,REGION,TEXT,ภาค,Region
+4,CODE_AREA,NUMERIC,รหัสเขตการปกครอง,"Code of Area"
+5,AREA,TEXT,เขตการปกครอง,Area
+6,MONTHLY_EXP,NUMERIC,ค่าใช้จ่ายทั้งสิ้นต่อเดือน,"Total monthly expenditure"
+7,CONSUMPTION_EXP,NUMERIC,ค่าใช้จ่ายเพื่อการอุปโภคบริโภค,"Consumption expenditure"
+8,FOOD_BEVERAGE,NUMERIC,"อาหาร และเครื่องดื่ม (ไม่มีแอลกอฮอล์)","Food and beverages (excluding alcoholic)"
+9,ALCOHO_BEVERAGE,NUMERIC,เครื่องดื่มที่มีแอลกอฮอล์,"Alcoholic beverages"
+10,TOBACCO_PRODUCT,NUMERIC,"ยาสูบ หมาก ยานัตถุ์ และอื่นๆ","Tobacco products"
+11,HH_OPERATION,NUMERIC,"ที่อยู่อาศัย เครื่องแต่งบ้าน และเครื่องใช้ต่างๆ","Household operation, furnitures and equipment"
+12,APPAREL,NUMERIC,เครื่องนุ่งห่มและรองเท้า,"Apparel and footwear"
+13,PERSONAL_CARE,NUMERIC,ค่าใช้จ่ายส่วนบุคคล,"Personal care"
+14,MEDICAL,NUMERIC,เวชภัณฑ์และค่าตรวจรักษาพยาบาล,"Medical and health care"
+15,TRANSPORT,NUMERIC,การเดินทางและการสื่อสาร,"Transport and communication"
+16,EDUCATION,NUMERIC,การศึกษา,Education
+17,RECREATION,NUMERIC,"การบันเทิง การอ่านและกิจกรรมทางศาสนา","Recreation  reading and religious activities"
+18,SPECIAL,NUMERIC,การจัดงานพิธีในโอกาสพิเศษ,"Special ceremony expenses"
+19,NON_CONSUMPTION,NUMERIC,ค่าใช้จ่ายที่ไม่เกี่ยวกับการอุปโภคบริโภค,"Non-consumption expenditure"
+20,UNIT,TEXT,บาท,Baht
+21,SOURCE,TEXT,สำนักงานสถิติแห่งชาติ,"National Statistical Office of Thailand"
